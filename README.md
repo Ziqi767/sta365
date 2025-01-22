@@ -1,2 +1,2 @@
-This repository contains the solution of STA365 HW1 
+This repository contains the solution of STA365 HW
 
